@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  margin-top: 50px;
+}
+
+#reader {
+  margin-top: 20px;
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+}
